@@ -1,3 +1,22 @@
-<?xml version="1.0" standalone="no"?>
-        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
-        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> <svg style="color: rgb(32, 194, 14);" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Unraid</title><path d="M11.406 8.528h1.17v6.926h-1.17zM1.17 15.454H0V8.528h1.17zm4.534.828h1.17v2.645h-1.17zm-2.86-2.969h1.169v4.282h-1.17zm5.703 0h1.17v4.282h-1.17zM22.83 8.528H24v6.926h-1.17zm-4.534-.81h-1.17V5.073h1.17zm2.86 2.95h-1.169V6.406h1.17zm-5.72 0h-1.17V6.406h1.17z" fill="#20c20e"></path></svg> 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#20C20E;}
+	.st1{fill:#AE7C1A;}
+</style>
+<path class="st0" d="M11.4,8.5h1.2v6.9h-1.2V8.5z M1.2,15.5H0V8.5h1.2V15.5z M5.7,16.3h1.2v2.6H5.7V16.3z M2.8,13.3H4v4.3H2.8
+	L2.8,13.3z M8.5,13.3h1.2v4.3H8.5V13.3z M22.8,8.5H24v6.9h-1.2V8.5z M18.3,7.7h-1.2V5.1h1.2V7.7z M21.2,10.7H20V6.4h1.2L21.2,10.7z
+	 M15.4,10.7h-1.2V6.4h1.2V10.7z"/>
+<g>
+	<path class="st1" d="M2.9,13.3c0.4,0,0.7-0.1,0.7-0.3c0-0.3-0.3-0.3-1.1-0.4c-0.9-0.2-1.2-0.5-1.2-1.1c0-0.7,0.7-1.1,1.5-1.1
+		c1.2,0,1.6,0.6,1.6,1.2h-1c0-0.3-0.2-0.4-0.6-0.4c-0.3,0-0.5,0.1-0.5,0.3c0,0.2,0.1,0.3,0.9,0.4c0.8,0.1,1.4,0.3,1.4,1
+		c0,0.7-0.5,1.2-1.7,1.2c-1.2,0-1.8-0.6-1.8-1.3h1C2.1,13.1,2.4,13.3,2.9,13.3z"/>
+	<path class="st1" d="M5.9,10.5V12h0.3l0.9-1.5h1.2l-1.2,1.8L8.5,14H7.3l-1-1.3H5.9V14h-1v-3.6H5.9z"/>
+	<path class="st1" d="M8.4,10.5h1.2l0.8,1.6l0.8-1.6h1.2L10.9,13V14h-1V13L8.4,10.5z"/>
+	<path class="st1" d="M13.6,10.5l1.7,2.2v-2.2h1V14h-1l-1.7-2.2V14h-1v-3.6H13.6z"/>
+	<path class="st1" d="M19.4,10.5v0.8h-1.7v0.6h1.6v0.8h-1.6v0.6h1.7V14h-2.7v-3.6H19.4z"/>
+	<path class="st1" d="M22.9,10.5v0.8h-1.1V14h-1v-2.7h-1.1v-0.8H22.9z"/>
+</g>
+</svg>
