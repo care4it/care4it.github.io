@@ -10,7 +10,7 @@
 --body-before:#00ff771a;
 --body-after: #00ff7733;
 --body-animation: none;
---logo: url(css/addons/unraid/login-page/retro-terminal/green_unraid.svg) center no-repeat;
+--logo: url(/css/addons/unraid/login-page/retro-terminal/green_unraid.svg) center no-repeat;
 --text-color: #37f592;
 --input-color: #37f592;
 --link-color: #37f592;
