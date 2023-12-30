@@ -9,7 +9,7 @@
 --main-bg-color:black;
 --body-before:#ffb52a1a;
 --body-after: #ffb52a33;
---body-animation: flicker;
+--body-animation: none;
 --logo: url(/css/addons/unraid/login-page/alien/logo/wings_yellow.png) center no-repeat;
 --text-color: #ffb52a;
 --input-color: #ffb52a;
