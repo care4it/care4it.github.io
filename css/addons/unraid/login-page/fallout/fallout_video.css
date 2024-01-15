@@ -2,15 +2,15 @@
 :root {
     --main-bg-color: transparent;
     --logo: url(/css/addons/unraid/login-page/fallout/logo/vault-tec_green.png) center no-repeat;
-    --text-color: #14F074;
-    --input-color: #14F074;
-    --link-color: #14F074;
-    --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
+    --text-color: #96c6ff;
+    --input-color: #96c6ff;
+    --link-color: #96c6ff;
+    --link-color-hover: #3491ff;
+    --case-color: #96c6ff;
+    --button-text-color: #96c6ff;
     --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
-    --button-color2: #0C833D;
+    --button-color: #96c6ff;
+    --button-color2: #3491ff;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
     --div-background-color-15: #0ea85118;
