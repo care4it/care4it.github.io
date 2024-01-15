@@ -9,7 +9,7 @@
 --main-bg-color:black;
 --body-before:#70d7f61a;
 --body-after: #70d7f633;
---body-animation: flicker;
+--body-animation: none;
 --logo: url(/css/addons/unraid/login-page/retro-terminal/blue_unraid.svg) center no-repeat;
 --text-color: #70d7f6;
 --input-color: #70d7f6;
