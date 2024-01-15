@@ -1,7 +1,7 @@
 @import url("/css/addons/unraid/login-page/fallout/fallout-base.css");
 :root {
     --main-bg-color: transparent;
-    --logo: url(/css/addons/unraid/login-page/fallout/logo/vault-tec_green.png) center no-repeat;
+    --logo: url(/css/addons/unraid/login-page/fallout/logo/vault-tec_blue.png) center no-repeat;
     --text-color: #96c6ff;
     --input-color: #96c6ff;
     --link-color: #96c6ff;
